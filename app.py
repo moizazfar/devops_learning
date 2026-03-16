@@ -1,1 +1,1 @@
-print("Hello DevOps Intern")
+print("Hello DevOps")
